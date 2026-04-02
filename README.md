@@ -15,8 +15,10 @@ Estudante de Ciência da Computação (9º semestre) | Java • Python • Desen
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cassiano2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cassiano2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -24,4 +26,4 @@ Estudante de Ciência da Computação (9º semestre) | Java • Python • Desen
 ---
 [![](https://visitcount.itsvg.in/api?id=Cassiano2003&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
