@@ -12,10 +12,10 @@ Estudante de Ciência da Computação (9º semestre) | Java • Python • Desen
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Cassiano2003&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cassiano2003&layout=compact&theme=tokyonight)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cassiano2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
