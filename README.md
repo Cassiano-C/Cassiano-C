@@ -10,20 +10,24 @@ Estudante de Ciência da Computação (9º semestre) | Java • Python • Desen
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Cassiano-C&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Cassiano-C&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cassiano-C&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cassiano2003&layout=compact&theme=tokyonight)
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cassiano2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 🗂️ Git Projetcs:
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cassiano-C&repo=TWO_PIECE&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cassiano-C&repo=Centopid_Odisseia_Mitologica&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cassiano-C&repo=Rolpladis_site&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Cassiano2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cassiano2003&icon=2&color=8)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cassiano2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
